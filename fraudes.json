@@ -1,0 +1,31 @@
+{
+  "suspeitos": [
+    { "numero": "62999995555", "risco": "alto", "ocorrencias": 42, "descricao": "Golpe do falso suporte técnico" },
+    { "numero": "62988884444", "risco": "medio", "ocorrencias": 17, "descricao": "Tentativas de fraude via PIX" },
+    { "numero": "11977776666", "risco": "alto", "ocorrencias": 31, "descricao": "Falso atendimento bancário" },
+    { "numero": "21988887777", "risco": "medio", "ocorrencias": 14, "descricao": "Clonagem de WhatsApp" },
+    { "numero": "31999994444", "risco": "alto", "ocorrencias": 28, "descricao": "Golpe do boleto falso" },
+    { "numero": "41988883333", "risco": "baixo", "ocorrencias": 6, "descricao": "Telemarketing abusivo" },
+    { "numero": "48999992222", "risco": "medio", "ocorrencias": 11, "descricao": "Falsa central de cartões" },
+    { "numero": "51988881111", "risco": "alto", "ocorrencias": 26, "descricao": "Golpe do falso empréstimo" },
+    { "numero": "61977770000", "risco": "baixo", "ocorrencias": 5, "descricao": "Cobrança indevida" },
+    { "numero": "71988889999", "risco": "medio", "ocorrencias": 13, "descricao": "Falsa promoção" },
+
+    { "numero": "81977773333", "risco": "alto", "ocorrencias": 19, "descricao": "Fraude por SMS" },
+    { "numero": "91999998888", "risco": "medio", "ocorrencias": 9, "descricao": "Golpe do prêmio falso" },
+    { "numero": "11955556666", "risco": "baixo", "ocorrencias": 4, "descricao": "Pesquisa falsa" },
+    { "numero": "21966667777", "risco": "alto", "ocorrencias": 24, "descricao": "Golpe do investimento falso" },
+    { "numero": "31955554444", "risco": "medio", "ocorrencias": 12, "descricao": "Falsa cobrança judicial" },
+    { "numero": "41966665555", "risco": "alto", "ocorrencias": 22, "descricao": "Falso suporte de operadora" },
+    { "numero": "48977776666", "risco": "baixo", "ocorrencias": 3, "descricao": "Robocall" },
+    { "numero": "51955558888", "risco": "medio", "ocorrencias": 10, "descricao": "Golpe da recarga prematura" },
+    { "numero": "61966669999", "risco": "alto", "ocorrencias": 18, "descricao": "Sequestro virtual" },
+    { "numero": "71955552222", "risco": "baixo", "ocorrencias": 4, "descricao": "Ligação automática" },
+
+    { "numero": "81966664444", "risco": "alto", "ocorrencias": 21, "descricao": "Golpe do cadastro falso" },
+    { "numero": "91977770000", "risco": "medio", "ocorrencias": 7, "descricao": "Falso sorteio" },
+    { "numero": "11944443333", "risco": "alto", "ocorrencias": 29, "descricao": "Falsa central fintech" },
+    { "numero": "21933332222", "risco": "medio", "ocorrencias": 13, "descricao": "Golpe do pacote retido" },
+    { "numero": "31922221111", "risco": "baixo", "ocorrencias": 3, "descricao": "Pesquisa automática" }
+  ]
+}
