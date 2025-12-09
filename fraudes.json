@@ -36,6 +36,16 @@
     { "numero": "61955558888", "risco": "alto", "ocorrencias": 20, "descricao": "Contato se passando por familiar pedindo ajuda financeira urgente" },
     { "numero": "71966667777", "risco": "medio", "ocorrencias": 11, "descricao": "Golpe do falso emprego com solicitação de pagamento para cadastro" },
     { "numero": "81955556666", "risco": "baixo", "ocorrencias": 5, "descricao": "Chamadas automatizadas oferecendo brindes sem continuidade" },
-    { "numero": "91966669999", "risco": "alto", "ocorrencias": 25, "descricao": "Falso aviso judicial com ameaças de penhora ou bloqueio de contas" }
+    { "numero": "91966669999", "risco": "alto", "ocorrencias": 25, "descricao": "Falso aviso judicial com ameaças de penhora ou bloqueio de contas" },
+    { "numero": "1130001000", "risco": "baixo", "ocorrencias": 9, "descricao": "Telemarketing automatizado com ligações recorrentes fora do horário comercial" },
+    { "numero": "1140002000", "risco": "baixo", "ocorrencias": 7, "descricao": "Central de vendas oferecendo pacotes de serviços não solicitados" },
+    { "numero": "1150003000", "risco": "medio", "ocorrencias": 15, "descricao": "Cobrança insistente por débitos já quitados ou inexistentes" },
+    { "numero": "1160004000", "risco": "baixo", "ocorrencias": 6, "descricao": "Envio excessivo de SMS promocionais sem opção clara de descadastro" },
+    { "numero": "1170005000", "risco": "medio", "ocorrencias": 12, "descricao": "Contato repetitivo tentando migração forçada de plano de telefonia" },
+    { "numero": "1180006000", "risco": "baixo", "ocorrencias": 5, "descricao": "Pesquisa de mercado automática sem consentimento do usuário" },
+    { "numero": "1190007000", "risco": "medio", "ocorrencias": 18, "descricao": "Ofertas agressivas de crédito por ligação e WhatsApp sem solicitação prévia" },
+    { "numero": "2130008000", "risco": "baixo", "ocorrencias": 4, "descricao": "Promoção persistente de pacotes de internet residencial" },
+    { "numero": "3130009000", "risco": "medio", "ocorrencias": 11, "descricao": "Cobranças automáticas relativas a contratos cancelados" },
+    { "numero": "4130010000", "risco": "baixo", "ocorrencias": 6, "descricao": "Ligações robóticas oferecendo seguros e cartões de afinidade" }
   ]
 }
