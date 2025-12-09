@@ -37,7 +37,7 @@
     { "numero": "71966667777", "risco": "medio", "ocorrencias": 11, "descricao": "Golpe do falso emprego com solicitação de pagamento para cadastro" },
     { "numero": "81955556666", "risco": "baixo", "ocorrencias": 5, "descricao": "Chamadas automatizadas oferecendo brindes sem continuidade" },
     { "numero": "91966669999", "risco": "alto", "ocorrencias": 25, "descricao": "Falso aviso judicial com ameaças de penhora ou bloqueio de contas" },
-    { "numero": "1130001000", "risco": "baixo", "ocorrencias": 9, "descricao": "Telemarketing automatizado com ligações recorrentes fora do horário comercial" },
+    { "numero": "11300010000", "risco": "baixo", "ocorrencias": 9, "descricao": "Telemarketing automatizado com ligações recorrentes fora do horário comercial" },
     { "numero": "1140002000", "risco": "baixo", "ocorrencias": 7, "descricao": "Central de vendas oferecendo pacotes de serviços não solicitados" },
     { "numero": "1150003000", "risco": "medio", "ocorrencias": 15, "descricao": "Cobrança insistente por débitos já quitados ou inexistentes" },
     { "numero": "1160004000", "risco": "baixo", "ocorrencias": 6, "descricao": "Envio excessivo de SMS promocionais sem opção clara de descadastro" },
